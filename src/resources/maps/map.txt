@@ -1,0 +1,16 @@
+15 15
+SSSSSSSSSSSSSSS
+SY SXS        S
+S  S          S
+S  S      SSSSS
+S SWWS S     YS
+S        S    S
+S  WWW        S
+S  WWW        S
+S   SSSSSS    S
+S S           S 
+S S    S      S
+S      SWWWW  S
+S      SWWWW  S
+S   Y  SWWWW YS
+SSSSSSSSSSSSSSS
